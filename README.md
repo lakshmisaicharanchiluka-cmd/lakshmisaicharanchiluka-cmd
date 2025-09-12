@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 , I'm Lakshmi Sai Charan
 
 <!--
 **lakshmisaicharanchiluka-cmd/lakshmisaicharanchiluka-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Skills
+
+- **Languages**: Python
+- **Tools**: Git
+
