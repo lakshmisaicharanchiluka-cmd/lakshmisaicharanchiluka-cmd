@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Objective
+Curious and motivated first-year Data Science student with a strong interest in Python, AI, and cybersecurity.
+Eager to build real-world skills through hands-on projects, open source contributions, and internships.
 
 
 ## Skills
