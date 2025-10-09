@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 ## Skills
--Languages: Python
--Tools Platforms: Git, GitHub, Linux
--Domains: Basics of Artificial Intelligence, Cybersecurity Fundamentals
+- Languages: Python 
+- Tools Platforms: Git, GitHub, Linux
+- Domains: Basics of Artificial Intelligence, Cybersecurity Fundamentals
 
 
 ##Hacktoberfest 2025
