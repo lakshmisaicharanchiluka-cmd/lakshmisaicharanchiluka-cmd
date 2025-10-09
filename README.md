@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 
 - **Languages**: Python
 - **Tools**: Git
-
-reach me though my email 
-
+##Hacktoberfest 2025
+[![An image of @lakshmisaicharanchilukacmd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshmisaicharanchilukacmd)](https://holopin.io/@lakshmisaicharanchilukacmd)
