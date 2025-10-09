@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 
 ## Skills
+Languages: Python
+Tools Platforms: Git, GitHub, Linux
+Domains: Basics of Artificial Intelligence, Cybersecurity Fundamentals
 
-- **Languages**: Python
-- **Tools**: Git
+
 ##Hacktoberfest 2025
 [![An image of @lakshmisaicharanchilukacmd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshmisaicharanchilukacmd)](https://holopin.io/@lakshmisaicharanchilukacmd)
